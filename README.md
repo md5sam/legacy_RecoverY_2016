@@ -23,19 +23,13 @@ Data for kmerPaint is in kmerPaint/data folder
 ### Output 
 
 The output for kmerPaint is :
-*trusted_DSK_counts_acc_to_fsY
+* trusted_DSK_counts_acc_to_fsY
 
 This file looks like :
 
 >CTTTCTATTTTTGTAACAATATGAA 35
->TATATTTGAATATGTGAATTCATGC 45
->ATATTATTTCGAAGCAGTCAAAAAC 73
 
 The first part of the line is the kmer, followed by kmer abundance 
-
-### Notebook 
-
-The ipynb notebook for this analysis is in ./notebook folder
 
 
 ### License
